@@ -3,8 +3,8 @@
 ---
 
 <figure>
-  <img src = "https://media.licdn.com/dms/image/C5616AQGYU-iInF6rYg/profile-displaybackgroundimage-shrink_350_1400/0/1545743236317?e=1699488000&v=beta&t=Zc6Va2m-0AHEmJP4Tb9l-fjNNjzYWZ_RRNqlbK82Np0"    
-       alt = "Sutlej River, Bilaspur, Himachal Pradesh, India"
+<img src = "https://media.licdn.com/dms/image/C5616AQGYU-iInF6rYg/profile-displaybackgroundimage-shrink_350_1400/0/1545743236317?e=1699488000&v=beta&t=Zc6Va2m-0AHEmJP4Tb9l-fjNNjzYWZ_RRNqlbK82Np0"    
+     alt = "Sutlej River, Bilaspur, Himachal Pradesh, India"
   <figcaption> Eastward view of the Sutlej River near one of my research areas in Bilaspur, Himachal Pradesh, India. </figcaption>
 </figure>
 
