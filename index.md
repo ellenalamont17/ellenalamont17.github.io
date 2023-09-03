@@ -10,7 +10,7 @@ Eastward view of the Sutlej River near one of my research areas in Bilaspur, Him
 ## Contact Information
   Please reach out if you would like to connect, collaborate, or learn more.
   
-  <br><img src="https://media.licdn.com/dms/image/C5603AQFYTxAT-9UDUg/profile-displayphoto-shrink_200_200/0/1545744079263?e=1699488000&v=beta&t=LgP0sKGtQZCltrT10r-CvsTCUMjVkeaVfdcKIkOdk3o" alt = "Photo of Ellen Lamont" style="float:left"/></br>
+![Photo of Ellen Lamont](https://media.licdn.com/dms/image/C5603AQFYTxAT-9UDUg/profile-displayphoto-shrink_200_200/0/1545744079263?e=1699488000&v=beta&t=LgP0sKGtQZCltrT10r-CvsTCUMjVkeaVfdcKIkOdk3o)
    <ul> 
       <li> University Email: ella8000@colorado.edu </li>
       <li> Personal Email: ellenalamont17@gmail.com </li>
