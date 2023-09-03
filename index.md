@@ -13,7 +13,7 @@
 ## Contact Information
   Please reach out if you would like to connect, collaborate, or learn more.
   
-  <img src="https://media.licdn.com/dms/image/C5603AQFYTxAT-9UDUg/profile-displayphoto-shrink_200_200/0/1545744079263?e=1699488000&v=beta&t=LgP0sKGtQZCltrT10r-CvsTCUMjVkeaVfdcKIkOdk3o" alt = "Photo of Ellen Lamont" style="float:left"/><br>
+  <br><img src="https://media.licdn.com/dms/image/C5603AQFYTxAT-9UDUg/profile-displayphoto-shrink_200_200/0/1545744079263?e=1699488000&v=beta&t=LgP0sKGtQZCltrT10r-CvsTCUMjVkeaVfdcKIkOdk3o" alt = "Photo of Ellen Lamont" style="float:left"/></br>
    <ul> 
       <li> University Email: ella8000@colorado.edu </li>
       <li> Personal Email: ellenalamont17@gmail.com </li>
