@@ -3,12 +3,12 @@
 ---
 
 ![Sutlej River, Bilaspur, Himachal Pradesh, India](https://media.licdn.com/dms/image/C5616AQGYU-iInF6rYg/profile-displaybackgroundimage-shrink_350_1400/0/1545743236317?e=1699488000&v=beta&t=Zc6Va2m-0AHEmJP4Tb9l-fjNNjzYWZ_RRNqlbK82Np0)
-Eastward view of the Sutlej River near one of my research areas in Bilaspur, Himachal Pradesh, India.
+*Eastward view of the Sutlej River near one of my research areas in Bilaspur, Himachal Pradesh, India.*
 
 ---
 
 ## Contact Information
-  Please reach out if you would like to connect, collaborate, or learn more.
+  Please reach out if you would like to connect, collaborate, or learn more. <br></br>
   
 ![Photo of Ellen Lamont](https://media.licdn.com/dms/image/C5603AQFYTxAT-9UDUg/profile-displayphoto-shrink_200_200/0/1545744079263?e=1699488000&v=beta&t=LgP0sKGtQZCltrT10r-CvsTCUMjVkeaVfdcKIkOdk3o)
    <ul> 
