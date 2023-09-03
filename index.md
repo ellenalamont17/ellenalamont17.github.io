@@ -6,6 +6,13 @@
 *Eastward view of the Sutlej River near one of my research areas in Bilaspur, Himachal Pradesh, India.*
 
 ---
+> Greetings! My name is Ellen Lamont. I am a structural geologist by training and a lover of all things mapping. I grew up in a rural mountain town in the heart of coal country in western Pennsylvania. From an early age, I was drawn to understand the why's of the spatial Earth:
+> 1. Why the distribution and shape of topography *(why do we have moutains and valleys)*?
+> 2. Why are rocks found in some places and not others *(and why do they look so differnt)*?
+> 3. Why do certain types of environmental pollution and geohazards impact some regions more acutely *(why are all the streams orange)*?
+>
+> Pursuing an education in geology and the geospatial sciences opened by eyes to the diversity of forces and problems impacting the planet, yet the similarity in their ramifications and products. After years of experience conducting research to explore these problems, the reality that answering these problems would be greatly aided by harnessing large, robust, and widescale datasets has brought me into the would of data analytics. I'm excited to learn how the employment of big data processing and manipulation can provide new insights into the state of knowledge of the earth sciences and to make these dataset and their byproducts more accessible to wider audiences.
+---
 
 ## Contact Information
   Please reach out if you would like to connect, collaborate, or learn more. <br>
@@ -29,7 +36,7 @@
 | Indiana University of Pennsylvania  | 2007 - 2012      | Geology & Geography (GIS/Cartography) | B.S. & B.A.        |
 | Kent State University               | 2006 - 2007      | Geology / Earth Science               | None               |
 
-<br></br>
+<br>
 
 | Present Employer  | U.S. Bureau of Reclamation |
 |------------------:|----------------------------|
