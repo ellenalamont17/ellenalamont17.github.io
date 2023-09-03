@@ -21,7 +21,7 @@
         <ul> 
           <li> University Email: ella8000@colorado.edu </li>
           <li> Personal Email: ellenalamont17@gmail.com </li>
-          <li> Phone Number: +1 (814) 3274767  </li>
+          <li> Phone Number: +1 (814) 327-4767  </li>
           <li> LinkedIn Profile: https://www.linkedin.com/in/ellenalamont17/ </li>
         </ul>
       </p>
@@ -45,3 +45,8 @@
 |------------------:|----------------------------|
 | Current Job Title | Geologist (GS-1350-12)     |
 | Work Contact      | elamont@usbr.gov           |
+
+
+---
+
+
