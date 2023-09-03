@@ -10,23 +10,16 @@
 
 ---
 
-<!DOCTYPE html>
-<html>
-<body>
-</p>
-   <h2>Contact Information</h2>
-      <p>Please reach out if you would like to connect, collaborate, or learn more.</p>
-      <p>
-         <img src="https://media.licdn.com/dms/image/C5603AQFYTxAT-9UDUg/profile-displayphoto-shrink_200_200/0/1545744079263?e=1699488000&v=beta&t=LgP0sKGtQZCltrT10r-CvsTCUMjVkeaVfdcKIkOdk3o" alt = "Photo of Ellen Lamont" style="float:left"/><br>
-        <ul> 
-          <li> University Email: ella8000@colorado.edu </li>
-          <li> Personal Email: ellenalamont17@gmail.com </li>
-          <li> Phone Number: +1 (814) 327-4767  </li>
-          <li> LinkedIn Profile: https://www.linkedin.com/in/ellenalamont17/ </li>
-        </ul>
-      </p>
-   </body>
-</html>
+## Contact Information
+  Please reach out if you would like to connect, collaborate, or learn more.
+  
+  <img src="https://media.licdn.com/dms/image/C5603AQFYTxAT-9UDUg/profile-displayphoto-shrink_200_200/0/1545744079263?e=1699488000&v=beta&t=LgP0sKGtQZCltrT10r-CvsTCUMjVkeaVfdcKIkOdk3o" alt = "Photo of Ellen Lamont" style="float:left"/><br>
+   <ul> 
+      <li> University Email: ella8000@colorado.edu </li>
+      <li> Personal Email: ellenalamont17@gmail.com </li>
+      <li> Phone Number: +1 (814) 327-4767  </li>
+      <li> LinkedIn Profile: https://www.linkedin.com/in/ellenalamont17/ </li>
+   </ul>
 
 ---
 
