@@ -1,1 +1,2 @@
-# Earth Data Analytics Bootcamp - Science Portfolio
+# Ellen Lamont - An Earth Data Analytics Project Portfolio
+
