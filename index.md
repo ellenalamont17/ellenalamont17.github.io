@@ -12,6 +12,7 @@
 > 3. Why do certain types of environmental pollution and geohazards impact some regions more acutely *(why are all the streams orange)*?
 >
 > Pursuing an education in geology and the geospatial sciences opened by eyes to the diversity of forces and problems impacting the planet, yet the similarity in their ramifications and products. After years of experience conducting research to explore these problems, the reality that answering these problems would be greatly aided by harnessing large, robust, and widescale datasets has brought me into the would of data analytics. I'm excited to learn how the employment of big data processing and manipulation can provide new insights into the state of knowledge of the earth sciences and to make these dataset and their byproducts more accessible to wider audiences.
+
 ---
 
 ## Contact Information
