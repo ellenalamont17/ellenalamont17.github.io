@@ -1,5 +1,3 @@
-# Ellen Lamont - An Earth Data Analytics Project Portfolio
-
 ---
 
 ![Sutlej River, Bilaspur, Himachal Pradesh, India](https://media.licdn.com/dms/image/C5616AQGYU-iInF6rYg/profile-displaybackgroundimage-shrink_350_1400/0/1545743236317?e=1699488000&v=beta&t=Zc6Va2m-0AHEmJP4Tb9l-fjNNjzYWZ_RRNqlbK82Np0)
