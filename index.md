@@ -47,4 +47,7 @@
 
 ---
 
+## Project Examples:
+
+* [Temperature over time in Pittsburgh, PA](https://ellenalamont17.github.io/notebook/ncei_temp_pittsburgh.html)
 
