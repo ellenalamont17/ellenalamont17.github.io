@@ -50,4 +50,4 @@
 ## Project Examples:
 
 * [Temperature over time in Pittsburgh, PA](https://ellenalamont17.github.io/notebook/ncei_temp_pittsburgh.html)
-* [Flood Frequency Analysis in Eugene, OR](https://ellenalamont17.github.io/blob/main/notebook/nwis_flood_eugene.html)
+* [Flood Frequency Analysis in Eugene, OR](https://ellenalamont17.github.io/notebook/nwis_flood_eugene.html)
