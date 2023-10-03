@@ -19,7 +19,7 @@
             "--line-length=79",
             "--experimental-string-processing"
         ],        
-        // Set the default python to the conda install
+        // Set the default python to the conda install.
         "python.defaultInterpreterPath": "/opt/conda/bin/python"
     }
 }
