@@ -51,3 +51,4 @@
 
 * [Temperature over time in Pittsburgh, PA](https://ellenalamont17.github.io/notebook/ncei_temp_pittsburgh.html)
 * [Flood Frequency Analysis in Eugene, OR](https://ellenalamont17.github.io/notebook/nwis_flood_eugene.html)
+* [Assessing Vegetation Recovery after the 2017 Eagle Creek Fire near Hood River, Oregon](https://ellenalamont17.github.io/notebook/ndvi_fire_CRG.html)
