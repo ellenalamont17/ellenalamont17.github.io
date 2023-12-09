@@ -53,4 +53,3 @@
 * [Flood Frequency Analysis in Eugene, OR](https://ellenalamont17.github.io/notebook/nwis_flood_eugene.html)
 * [Assessing Vegetation Recovery after the 2017 Eagle Creek Fire near Hood River, Oregon](https://ellenalamont17.github.io/notebook/ndvi_fire_CRG.html)
 * [Assessing Fire Density in Native American Areas](https://ellenalamont17.github.io/notebook/nbd_fire_naa.html).
-* [Assessing Urban Green Spaces using vegetative indices](https://ellenalamont17.github.io/notebook/ndvi_parks_fxn.html).
